@@ -1,6 +1,6 @@
 # DarknetCV Neural Network weights for Face detection.
 
-There are huge, fast and very precision. Use it wisely.
+They are huge, fast and very precision. Use it wisely.
 Trained and tested on nVidia Titan X.
 
 Pre-trained weights with config data could be found here:
