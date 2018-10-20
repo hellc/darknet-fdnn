@@ -1,0 +1,5 @@
+classes= 1
+train  = C:/darknet/weights/darknet_face/train.txt
+names = C:/darknet/weights/darknet_face/darknet_face.names
+backup = C:/darknet/weights/darknet_face/backup/
+
